@@ -23,7 +23,7 @@ This project is an interactive guide to making the perfect cup of tea. It walks 
 If you want to run this project locally:
 1. **Clone the repository** to your local machine.
    ```bash
-   git clone https://github.com/yourusername/How-to-Make-Tea.git
+   git clone https://github.com/yourusername/How_To_Make_Tea.git
 2. Open the index.html file in your preferred web browser.
 
 ## Contributing
