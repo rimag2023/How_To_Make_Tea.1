@@ -28,5 +28,4 @@ Follow these steps to make a cup of tea:
 ## Contributing
 If you have suggestions or improvements for this guide, feel free to contribute! You can do so by opening an issue or submitting a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
